@@ -1,5 +1,2 @@
-spring:
-  application:
-    name: config-client
 test:
-  message: det test 파일이다 수정18
+  message: det test 파일이다 수정19
