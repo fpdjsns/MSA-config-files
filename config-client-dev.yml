@@ -1,7 +1,5 @@
 spring:
   application:
     name: config-client
-  profiles:
-    active: dev
 test:
   message: det test 파일이다 수정16
